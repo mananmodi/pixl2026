@@ -1522,7 +1522,7 @@ body:not([data-elementor-device-mode=desktop]) .d-xl-block {
 }
 
 #main {
-  padding: 40px 0;
+  padding: 0px 0;
   position: relative;
   overflow: clip;
   min-height: calc(100vh - var(--header-height, 0px) - var(--footer-height, 0px) - var(--pt-height, 0px) - var(--wp-admin--admin-bar--height, 0px));
