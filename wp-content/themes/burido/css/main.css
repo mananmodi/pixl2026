@@ -13205,7 +13205,7 @@ body:is([data-elementor-device-mode=mobile_extra],
 }
 .wgl-clients .clients_item {
   height: auto;
-  padding: calc(0.5 * var(--wgl-gap));
+  padding: calc(0.1 * var(--wgl-gap));
 }
 .wgl-clients .clients_item.swiper-slide {
   padding-top: 0;
